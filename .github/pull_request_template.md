@@ -4,18 +4,24 @@
 
 ### Example 1:
 > **Input**: 
-**Output**: 
-**Explanation**: 
+> 
+>**Output**:
+> 
+>**Explanation**: 
 
 ### Example 2:
 > **Input**: 
-**Output**: 
-**Explanation**: 
+> 
+>**Output**:
+> 
+>**Explanation**: 
 
 ### Example 3:
 > **Input**: 
-**Output**: 
-**Explanation**: 
+> 
+>**Output**:
+> 
+>**Explanation**: 
  
 ### Constraints:
  <!--- Conditions and constraints ---> 
