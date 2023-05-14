@@ -1,7 +1,47 @@
 # Menu
+[269. Alien Dictionary](#alien-dictionary)
+
 [727. Minimum Window Subsequence](#minimum-window-subsequence)
 
 [1548. The Most Similar Path in a Graph](#the-most-similar-path-in-a-graph)
+
+## Alien Dictionary
+ <!--- Problem statement ---> 
+[Leetcode source](https://leetcode.com/problems/alien-dictionary)
+
+[My solution](https://github.com/troublerocket/leetcode/blob/main/Premium/269.%20Alien%20Dictionary.java)
+
+There is a new alien language that uses the English alphabet. However, the order among the letters is unknown to you.
+
+You are given a list of strings `words` from the alien language's dictionary, where the strings in `words` are 
+**sorted lexicographically** by the rules of this new language.
+
+Return a string of the unique letters in the new alien language sorted in lexicographically increasing order by the new language's rules. If there is no solution, return `""`. If there are multiple solutions, return any of them.
+
+### Example 1:
+> **Input**: words = ["wrt","wrf","er","ett","rftt"]
+> 
+>**Output**: "wertf"
+
+### Example 2:
+> **Input**: ["z","x"]
+> 
+>**Output**: "zx"
+
+### Example 3:
+> **Input**: ["z","x","z"]
+> 
+>**Output**: ""
+> 
+>**Explanation**: The order is invalid, so return "".
+ 
+### Constraints:
+ <!--- Conditions and constraints ---> 
+
+- `1 <= words.length <= 100`
+- `1 <= words[i].length <= 100`
+- `words[i]` consists of only lowercase English letters.
+
 
 ## Minimum Window Subsequence
 [Leetcode source](https://leetcode.com/problems/minimum-window-subsequence/)
