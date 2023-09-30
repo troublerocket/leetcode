@@ -9,65 +9,7 @@
 
 [Binary Search](#binary-search)
 
-[Monotonic Stack](#monotonic-stack)
-
-[Trie](#trie)
-
-[Priority Queue](#priority-queue)
-
-[Kadane's Algorithm](#kadanes-algorithm)
-
-[Binary Search](#binary-search)
-
-[Monotonic Stack](#monotonic-stack)
-
-[Trie](#trie)
-
-[Priority Queue](#priority-queue)
-
-[Kadane's Algorithm](#kadanes-algorithm)
-
-[Binary Search](#binary-search)
-
-[Monotonic Stack](#monotonic-stack)
-
-[Trie](#trie)
-
-[Priority Queue](#priority-queue)
-
-[Kadane's Algorithm](#kadanes-algorithm)
-
-[Binary Search](#binary-search)
-
-[Monotonic Stack](#monotonic-stack)
-
-[Trie](#trie)
-
-[Priority Queue](#priority-queue)
-
-[Kadane's Algorithm](#kadanes-algorithm)
-
-[Binary Search](#binary-search)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Greedy](#greedy)
 
 
 
@@ -90,6 +32,10 @@ Trie + DP
 
 [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 
+[1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+
+[1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) [premium]
+
 ## Kadane's Algorithm
 
 [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) [premium]
@@ -97,3 +43,8 @@ Trie + DP
 ## Binary Search
 
 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+
+## Greedy
+
+[1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
