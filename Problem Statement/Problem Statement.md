@@ -3,6 +3,8 @@
 
 [727. Minimum Window Subsequence](#minimum-window-subsequence)
 
+[1063. Number of Valid Subarrays](#number-of-valid-subarrays)
+
 [1548. The Most Similar Path in a Graph](#the-most-similar-path-in-a-graph)
 
 ## Alien Dictionary
@@ -71,7 +73,40 @@ If there is no such window in `s1` that covers all characters in `s2`, return th
 - `1 <= s2.length <= 100`
 - `s1` and `s2` consist of lowercase English letters.
 
+## Number of Valid Subarrays
+ <!--- Problem statement ---> 
+[leetcode](https://leetcode.com/problems/number-of-valid-subarrays/)
 
+[My solution](https://github.com/troublerocket/leetcode/blob/main/Premium/1063.%20Number%20of%20Valid%20Subarrays.java)
+
+Given an integer array nums, return the number of non-empty subarrays with the leftmost element of the subarray not larger than other elements in the subarray.
+
+A subarray is a contiguous part of an array.
+### Example 1:
+> **Input**:  nums = [1,4,2,5,3]
+> 
+>**Output**: 11
+> 
+>**Explanation**:  There are 11 valid subarrays: [1],[4],[2],[5],[3],[1,4],[2,5],[1,4,2],[2,5,3],[1,4,2,5],[1,4,2,5,3].
+
+### Example 2:
+> **Input**: nums = [3,2,1]
+> 
+>**Output**: 3
+> 
+>**Explanation**: The 3 valid subarrays are: [3],[2],[1].
+
+### Example 3:
+> **Input**: [2,2,2]
+> 
+>**Output**: 6
+> 
+>**Explanation**: There are 6 valid subarrays: [2],[2],[2],[2,2],[2,2],[2,2,2].
+ 
+### Constraints:
+ <!--- Conditions and constraints ---> 
+- ` 1 <= nums.length <= 5 * 104`
+- `0 <= nums[i] <= 105`
 
 ## The Most Similar Path in a Graph
 [Leetcode source](https://leetcode.com/problems/the-most-similar-path-in-a-graph/)
@@ -136,4 +171,3 @@ It's equivalent to ["ATL","DXB","HND","DXB","ATL","LAX","PEK"]
 
 ### Follow up: 
 If each node can be visited only once in the path, What should you change in your solution?
-
