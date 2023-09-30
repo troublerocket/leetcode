@@ -75,7 +75,7 @@ If there is no such window in `s1` that covers all characters in `s2`, return th
 
 ## Number of Valid Subarrays
  <!--- Problem statement ---> 
-[leetcode](https://leetcode.com/problems/number-of-valid-subarrays/)
+[Leetcode source](https://leetcode.com/problems/number-of-valid-subarrays/)
 
 [My solution](https://github.com/troublerocket/leetcode/blob/main/Premium/1063.%20Number%20of%20Valid%20Subarrays.java)
 
