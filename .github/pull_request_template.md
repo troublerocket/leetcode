@@ -1,6 +1,6 @@
 ## Problem
  <!--- Problem statement ---> 
-[leetcode](https://leetcode.com/problems/)
+[Leetcode source](https://leetcode.com/problems/)
 
 ### Example 1:
 > **Input**: 
