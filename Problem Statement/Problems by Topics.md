@@ -11,6 +11,8 @@
 
 [Greedy](#greedy)
 
+[Sliding Window](#sliding-window)
+
 
 
 ## Monotonic Stack
@@ -48,3 +50,8 @@ Trie + DP
 ## Greedy
 
 [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+## Sliding Window
+
+[2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
+
