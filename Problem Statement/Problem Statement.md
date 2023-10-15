@@ -1,5 +1,5 @@
 # Menu
-[269. Alien Dictionary](#alien-dictionary)
+[269. Alien Dictionary](#269-alien-dictionary)
 
 [727. Minimum Window Subsequence](#minimum-window-subsequence)
 
@@ -7,7 +7,9 @@
 
 [1548. The Most Similar Path in a Graph](#the-most-similar-path-in-a-graph)
 
-## Alien Dictionary
+[2355. Maximum Number of Books You Can Take](#2355-maximum-number-of-books-you-can-take)
+
+## 269. Alien Dictionary
  <!--- Problem statement ---> 
 [Leetcode source](https://leetcode.com/problems/alien-dictionary)
 
@@ -69,7 +71,7 @@ If there is no such window in `s1` that covers all characters in `s2`, return th
  
 
 ### Constraints:
-- `1 <= s1.length <= 2 * 104`
+- <code>1 <= s1.length <= 2 * 10<sup>4</sup></code>
 - `1 <= s2.length <= 100`
 - `s1` and `s2` consist of lowercase English letters.
 
@@ -105,8 +107,8 @@ A subarray is a contiguous part of an array.
  
 ### Constraints:
  <!--- Conditions and constraints ---> 
-- ` 1 <= nums.length <= 5 * 104`
-- `0 <= nums[i] <= 105`
+- <code>1 <= nums.length <= 5 * 10<sup>4</sup></code>
+- <code>0 <= nums[i] <= 10<sup>5</sup></code>
 
 ## The Most Similar Path in a Graph
 [Leetcode source](https://leetcode.com/problems/the-most-similar-path-in-a-graph/)
@@ -171,3 +173,72 @@ It's equivalent to ["ATL","DXB","HND","DXB","ATL","LAX","PEK"]
 
 ### Follow up: 
 If each node can be visited only once in the path, What should you change in your solution?
+
+## 2355. Maximum Number of Books You Can Take
+[Leetcode source](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)
+
+[My solution](https://github.com/troublerocket/leetcode/blob/main/Premium/2355.%20Maximum%20Number%20of%20Books%20You%20Can%20Take.java)
+
+You are given a 0-indexed integer array `books` of length `n` where `books[i]` denotes the number of books on the <code>i<sup>th</sup></code> shelf of a bookshelf.
+
+You are going to take books from a contiguous section of the bookshelf spanning from `l` to `r` where `0 <= l <= r < n`. For each index `i` in the range `l <= i < r`, you must take strictly fewer books from shelf `i` than shelf `i + 1`.
+
+Return the maximum number of books you can take from the bookshelf.
+### Example 1:
+> **Input**: books = [8,5,2,7,9]
+> 
+>**Output**: 19
+> 
+>**Explanation**:
+>
+> \- Take 1 book from shelf 1.
+>
+> \- Take 2 books from shelf 2.
+>
+> \- Take 7 books from shelf 3.
+>
+> \- Take 9 books from shelf 4.
+>
+> You have taken 19 books, so return 19.
+>
+> It can be proven that 19 is the maximum number of books you can take.
+
+### Example 2:
+> **Input**: books = [7,0,3,4,5]
+> 
+>**Output**: 12
+> 
+>**Explanation**:
+> 
+> \- Take 3 books from shelf 2.
+> 
+> \- Take 4 books from shelf 3.
+>
+> \- Take 5 books from shelf 4.
+>
+> You have taken 12 books so return 12.
+>
+> It can be proven that 12 is the maximum number of books you can take.
+
+### Example 3:
+> **Input**: books = [8,2,3,7,3,4,0,1,4,3]
+> 
+>**Output**: 13
+> 
+>**Explanation**:
+> 
+> \- Take 1 book from shelf 0.
+> 
+> \- Take 2 books from shelf 1.
+> 
+> \- Take 3 books from shelf 2.
+> 
+> \- Take 7 books from shelf 3.
+> 
+> You have taken 13 books so return 13.
+> 
+> It can be proven that 13 is the maximum number of books you can take.
+### Constraints:
+ <!--- Conditions and constraints ---> 
+- <code>1 <= books.length <= 10<sup>5</sup></code>
+- <code>0 <= books[i] <= 10<sup>5</sup></code>
