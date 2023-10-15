@@ -1,11 +1,11 @@
 # Menu
 [269. Alien Dictionary](#269-alien-dictionary)
 
-[727. Minimum Window Subsequence](#minimum-window-subsequence)
+[727. Minimum Window Subsequence](#727-minimum-window-subsequence)
 
-[1063. Number of Valid Subarrays](#number-of-valid-subarrays)
+[1063. Number of Valid Subarrays](#1063-number-of-valid-subarrays)
 
-[1548. The Most Similar Path in a Graph](#the-most-similar-path-in-a-graph)
+[1548. The Most Similar Path in a Graph](#1548-the-most-similar-path-in-a-graph)
 
 [2355. Maximum Number of Books You Can Take](#2355-maximum-number-of-books-you-can-take)
 
@@ -47,7 +47,7 @@ Return a string of the unique letters in the new alien language sorted in lexico
 - `words[i]` consists of only lowercase English letters.
 
 
-## Minimum Window Subsequence
+## 727. Minimum Window Subsequence
 [Leetcode source](https://leetcode.com/problems/minimum-window-subsequence/)
 
 [My solution](https://github.com/troublerocket/leetcode/blob/main/Premium/727.%20Minimum%20Window%20Subsequence.java)
@@ -75,7 +75,7 @@ If there is no such window in `s1` that covers all characters in `s2`, return th
 - `1 <= s2.length <= 100`
 - `s1` and `s2` consist of lowercase English letters.
 
-## Number of Valid Subarrays
+## 1063. Number of Valid Subarrays
  <!--- Problem statement ---> 
 [Leetcode source](https://leetcode.com/problems/number-of-valid-subarrays/)
 
@@ -110,7 +110,7 @@ A subarray is a contiguous part of an array.
 - <code>1 <= nums.length <= 5 * 10<sup>4</sup></code>
 - <code>0 <= nums[i] <= 10<sup>5</sup></code>
 
-## The Most Similar Path in a Graph
+## 1548. The Most Similar Path in a Graph
 [Leetcode source](https://leetcode.com/problems/the-most-similar-path-in-a-graph/)
 
 [My solution](https://github.com/troublerocket/leetcode/blob/main/Premium/1548.%20The%20Most%20Similar%20Path%20in%20a%20Graph.java)
