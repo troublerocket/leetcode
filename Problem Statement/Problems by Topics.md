@@ -26,6 +26,8 @@
 
 [2866. Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/)
 
+[2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/) [premium]
+
 
 ## Trie
 
