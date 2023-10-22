@@ -78,7 +78,7 @@ Trie + DP
 
 *Two pointers is a kind of *Greedy* problems*
 
-[1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) Non-optimal soluition: monotonic stack
+[1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) Non-optimal solution: monotonic stack
 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
