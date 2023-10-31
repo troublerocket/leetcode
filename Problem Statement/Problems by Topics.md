@@ -61,6 +61,8 @@ Trie + DP
 
 [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
 
+[646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) Non-optimal solution: dp
+
 ## Sliding Window
 
 [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
