@@ -48,6 +48,7 @@ Trie + DP
 
 [1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) **💸premium💸**
 
+
 ## Kadane's Algorithm
 
 [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
@@ -62,6 +63,9 @@ Trie + DP
 [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
 
 [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) Non-optimal solution: dp
+
+[1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/) **💸premium💸** PriorityQueue + Greedy
+
 
 ## Sliding Window
 
