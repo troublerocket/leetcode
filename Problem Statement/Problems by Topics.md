@@ -21,6 +21,8 @@
 
 [Tree](#tree)
 
+[Simulation](#simulation)
+
 
 
 ## Monotonic Stack
@@ -93,6 +95,12 @@ Trie + DP
 ## Tree
 
 [1660. Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) **💸premium💸** Straightforward BFS or DFS
+
+## Simulation
+
+[1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+
+[1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) Brain teaser :\
 
 
 
