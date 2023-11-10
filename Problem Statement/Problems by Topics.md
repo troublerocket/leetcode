@@ -40,6 +40,8 @@
 
 [2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/) **💸premium💸**
 
+[1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) mono stack + DP
+
 
 ## Trie
 
