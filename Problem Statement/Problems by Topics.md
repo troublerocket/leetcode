@@ -81,6 +81,9 @@ Trie + DP
 
 [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
 
+[2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
+
+
 ## Dynamic Programming
 [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
 
