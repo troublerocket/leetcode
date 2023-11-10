@@ -83,6 +83,8 @@ Trie + DP
 
 [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)
 
+[2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)
+
 
 ## Dynamic Programming
 [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
