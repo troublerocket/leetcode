@@ -75,6 +75,8 @@
 
 [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/) **💸premium💸** PriorityQueue + Greedy
 
+[1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) Very Elegant!
+
 
 ## Sliding Window
 
