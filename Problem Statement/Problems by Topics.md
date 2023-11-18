@@ -88,6 +88,8 @@
 
 [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)
 
+[1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+
 
 ## Dynamic Programming
 [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
