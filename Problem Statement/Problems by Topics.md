@@ -77,6 +77,8 @@
 
 [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) Very Elegant!
 
+[2939. Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/) Bit manipulation + Greedy
+
 
 ## Sliding Window
 
