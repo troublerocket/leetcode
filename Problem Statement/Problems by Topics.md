@@ -42,6 +42,8 @@
 
 [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) mono stack + DP
 
+[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) DP + mono stack
+
 
 ## Trie
 
