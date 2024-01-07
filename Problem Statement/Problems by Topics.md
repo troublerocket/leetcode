@@ -98,6 +98,9 @@
 ## Dynamic Programming
 [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
 
+[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+
+
 ## Sweep Line
 
 [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Binary Search + Sweep Line
