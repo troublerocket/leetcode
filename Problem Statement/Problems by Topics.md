@@ -119,6 +119,8 @@
 
 [1660. Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) **💸premium💸** Straightforward BFS or DFS
 
+[2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) One-pass DFS
+
 ## Tree Map
 
 [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/)
