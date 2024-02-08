@@ -102,6 +102,8 @@
 
 [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
 
+[276. Paint Fence](https://leetcode.com/problems/paint-fence/)
+
 
 ## Sweep Line
 
