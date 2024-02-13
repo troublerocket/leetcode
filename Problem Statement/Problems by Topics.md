@@ -27,6 +27,8 @@
 
 [Design](#design)
 
+[Out of Category](#out-of-category)
+
 
 
 ## Monotonic Stack
@@ -140,6 +142,10 @@
 ## Design
 
 [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) PriorityQueue w/o pre-initialization
+
+## Out of Category
+
+[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
 
 
