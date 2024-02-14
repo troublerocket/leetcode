@@ -106,6 +106,9 @@
 
 [276. Paint Fence](https://leetcode.com/problems/paint-fence/) **💸premium💸**
 
+[741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
+
+[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
 
 ## Sweep Line
 
