@@ -116,6 +116,8 @@
 
 [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) **💸premium💸**
 
+[1272. Remove Interval](https://leetcode.com/problems/remove-interval/) **💸premium💸**
+
 ## Two Pointers
 
 *Two pointers is a kind of *Greedy* problems*
