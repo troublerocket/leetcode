@@ -83,6 +83,8 @@
 
 [2939. Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/) Bit manipulation + Greedy
 
+[1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) PriorityQueue
+
 
 ## Sliding Window
 
