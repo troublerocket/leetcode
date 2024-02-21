@@ -27,6 +27,8 @@
 
 [Design](#design)
 
+[Bit Manipulation](#bit-manipulation)
+
 [Out of Category](#out-of-category)
 
 
@@ -149,6 +151,10 @@
 ## Design
 
 [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) PriorityQueue w/o pre-initialization
+
+## Bit Manipulation
+
+[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 
 ## Out of Category
 
