@@ -23,6 +23,8 @@
 
 [Tree Map](#tree-map)
 
+[Graph](#graph)
+
 [Simulation](#simulation)
 
 [Design](#design)
@@ -102,6 +104,7 @@
 
 
 ## Dynamic Programming
+
 [2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
 
 [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
@@ -139,6 +142,10 @@
 ## Tree Map
 
 [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/)
+
+## Graph
+
+[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 
 
 ## Simulation
