@@ -3,6 +3,8 @@
 
 [Trie](#trie)
 
+[Union Find](#union-find)
+
 [Priority Queue](#priority-queue)
 
 [Kadane's Algorithm](#kadanes-algorithm)
@@ -56,6 +58,10 @@
 [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) Trie + DP
 
 [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) Bitwise Trie
+
+## Union Find
+
+[2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) UF with reset
 
 ## Priority Queue
 
