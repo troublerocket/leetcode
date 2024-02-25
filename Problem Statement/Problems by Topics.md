@@ -63,6 +63,8 @@
 
 [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) UF with reset
 
+[2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) Prime factor
+
 ## Priority Queue
 
 [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
