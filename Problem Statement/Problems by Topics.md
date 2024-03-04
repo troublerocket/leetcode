@@ -97,6 +97,8 @@
 
 [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) PriorityQueue
 
+[948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+
 
 ## Sliding Window
 
