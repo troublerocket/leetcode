@@ -21,6 +21,8 @@
 
 [Two Pointers](#two-pointers)
 
+[Prefix Sum](#prefix-sum)
+
 [Tree](#tree)
 
 [Tree Map](#tree-map)
@@ -143,6 +145,11 @@
 [1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) Non-optimal solution: monotonic stack
 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+## Prefix Sum
+
+[1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) Prefix Sum + Linked List
+
 
 ## Tree
 
