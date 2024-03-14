@@ -114,6 +114,8 @@
 
 [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 
+[930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) A variant
+
 
 ## Dynamic Programming
 
@@ -149,6 +151,7 @@
 ## Prefix Sum
 
 [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) Prefix Sum + Linked List
+
 
 
 ## Tree
