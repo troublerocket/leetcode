@@ -75,6 +75,8 @@
 
 [1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) **💸premium💸**
 
+[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) **💸premium💸** Use 2 PQs
+
 
 ## Kadane's Algorithm
 
