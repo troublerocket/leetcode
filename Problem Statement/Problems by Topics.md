@@ -103,6 +103,8 @@
 
 [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 
+[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Intervals - we only care about the right bound
+
 
 ## Sliding Window
 
