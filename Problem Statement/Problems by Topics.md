@@ -105,6 +105,8 @@
 
 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Intervals - we only care about the right bound
 
+[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
 
 ## Sliding Window
 
