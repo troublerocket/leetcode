@@ -23,6 +23,8 @@
 
 [Prefix Sum](#prefix-sum)
 
+[Cycle](#cycle)
+
 [Tree](#tree)
 
 [Tree Map](#tree-map)
@@ -159,6 +161,11 @@
 [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) Prefix Sum + Linked List
 
 
+## Cycle
+
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) 1. Cycle Sort 2. Cycle Detection - Tortoise🐢 and Hare🐇
+
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) Cycle sort
 
 ## Tree
 
