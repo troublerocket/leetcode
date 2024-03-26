@@ -165,7 +165,7 @@
 
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) 1. Cycle Sort 2. Cycle Detection - Tortoise🐢 and Hare🐇
 
-[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) Cycle sort
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) Cycle Sort
 
 ## Tree
 
