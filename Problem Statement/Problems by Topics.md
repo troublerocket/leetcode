@@ -163,6 +163,8 @@
 
 ## Cycle
 
+*Cycle sort can be used when finding duplicates or missing numbers when the given nums are in range \[1, n\]. But it modifies the input.*
+
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) 1. Cycle Sort 2. Cycle Detection - Tortoise🐢 and Hare🐇
 
 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) Cycle Sort
