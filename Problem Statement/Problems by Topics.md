@@ -124,6 +124,8 @@
 
 [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) A variant
 
+[2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+
 
 ## Dynamic Programming
 
