@@ -126,6 +126,8 @@
 
 [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
 
+[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) 1. Two passes: `exact(k) = atMost(k) - atMost(k - 1)` 2. One pass HARD
+
 
 ## Dynamic Programming
 
