@@ -128,6 +128,8 @@
 
 [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) 1. Two passes: `exact(k) = atMost(k) - atMost(k - 1)` 2. One pass HARD
 
+[2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) HARD T_T
+
 
 ## Dynamic Programming
 
