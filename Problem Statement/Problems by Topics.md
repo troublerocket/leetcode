@@ -126,7 +126,9 @@
 
 [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
 
-[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) 1. Two passes: `exact(k) = atMost(k) - atMost(k - 1)` 2. One pass HARD
+[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) & [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) 
+
+Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of valid left bounds
 
 [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) HARD T_T
 
