@@ -56,7 +56,14 @@
 
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) DP + mono stack
 
-[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** Mono stack for preorder tree
+[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** 
+
+Use mono stack to emulate & verify pre-order traversal
+- Emulate:
+  - Node at the top of the stack is the root of the subtree we're visiting rn.
+  - Push nodes when we're visiting deep down (go to the left subtree) & pop nodes when we need to backtrack up the tree (go back to the right subtree)
+- Verify:
+  -  When we return from a node (pop from the stack), every value we encounter from now on must be greater than node.   
 
 
 ## Trie
