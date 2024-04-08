@@ -56,6 +56,8 @@
 
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) DP + mono stack
 
+[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** Mono stack for preorder tree
+
 
 ## Trie
 
