@@ -207,6 +207,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) Brain teaser :\
 
+[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+
 
 ## Design
 
