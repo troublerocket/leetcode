@@ -63,7 +63,9 @@ Use mono stack to emulate & verify pre-order traversal
   - Node at the top of the stack is the root of the subtree we're visiting rn.
   - Push nodes when we're visiting deep down (go to the left subtree) & pop nodes when we need to backtrack up the tree (go back to the right subtree)
 - Verify:
-  -  When we return from a node (pop from the stack), every value we encounter from now on must be greater than node.   
+  -  When we return from a node (pop from the stack), every value we encounter from now on must be greater than node.
+
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 
 
 ## Trie
