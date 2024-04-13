@@ -67,6 +67,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 
+[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) Mono stack + DP
+
 
 ## Trie
 
