@@ -160,6 +160,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
 
+[514. Freedom Trail](https://leetcode.com/problems/freedom-trail/)
+
 
 ## Sweep Line
 
