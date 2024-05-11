@@ -92,6 +92,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) **💸premium💸** Use 2 PQs
 
+[857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+
 
 ## Kadane's Algorithm
 
