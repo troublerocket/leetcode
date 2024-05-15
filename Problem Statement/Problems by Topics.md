@@ -31,7 +31,7 @@
 
 [Graph](#graph)
 
-[Dijkstra's Algorithm](#dijkstra's-algorithm)
+[Dijkstra's Algorithm](#dijkstras-algorithm)
 
 [Simulation](#simulation)
 
