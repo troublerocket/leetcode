@@ -31,6 +31,8 @@
 
 [Graph](#graph)
 
+[Dijkstra's Algorithm](#dijkstra's-algorithm)
+
 [Simulation](#simulation)
 
 [Design](#design)
@@ -214,7 +216,7 @@ XOR function is equivalent to subtraction under modulo 2
 
 [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 
-## Dijkstra's Algo
+## Dijkstra's Algorithm
 
 [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 
 
