@@ -236,5 +236,7 @@ XOR function is equivalent to subtraction under modulo 2
 
 [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
+[2812. Find the Safest Path in a Grid]()
+
 
 
