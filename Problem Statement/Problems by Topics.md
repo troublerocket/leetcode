@@ -214,6 +214,13 @@ XOR function is equivalent to subtraction under modulo 2
 
 [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 
+## Dijkstra's Algo
+
+[2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 
+
+Complex solution: 
+1. BFS + Dijkstra (via PQ)
+2. BFS + Binary Search to find the max 
 
 ## Simulation
 
@@ -235,8 +242,6 @@ XOR function is equivalent to subtraction under modulo 2
 ## Out of Category
 
 [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
-
-[2812. Find the Safest Path in a Grid]()
 
 
 
