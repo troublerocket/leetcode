@@ -126,6 +126,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
+[1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)
+
 
 ## Sliding Window
 
