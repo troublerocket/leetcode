@@ -222,11 +222,15 @@ XOR function is equivalent to subtraction under modulo 2
 
 ## Dijkstra's Algorithm
 
+DJ's algo implementation: dist array + PQ
+
 [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 
 
 Complex solution: 
 1. BFS + Dijkstra (via PQ)
-2. BFS + Binary Search to find the max 
+2. BFS + Binary Search to find the max
+
+[2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)
 
 ## Simulation
 
