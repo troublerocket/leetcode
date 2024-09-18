@@ -253,5 +253,7 @@ Complex solution:
 
 [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
+[179. Largest Number](https://leetcode.com/problems/largest-number/description/) The way it compares and sort numbers
+
 
 
