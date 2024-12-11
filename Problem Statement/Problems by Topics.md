@@ -179,6 +179,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [1272. Remove Interval](https://leetcode.com/problems/remove-interval/) **💸premium💸**
 
+[2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) Binary Search/Sliding Window/Sweep Line (Simplified prefix sum)
+
 ## Two Pointers
 
 *Two pointers is a kind of *Greedy* problems*
