@@ -128,6 +128,12 @@ Use mono stack to emulate & verify pre-order traversal
 
 [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)
 
+[769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) 
+
+PrefixSum + SuffixMin / Mono Stack are 2 general solutions.
+
+PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions that the array is a permutation of the integers in the range `[0, n - 1]`
+
 
 ## Sliding Window
 
