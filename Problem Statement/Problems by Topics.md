@@ -220,6 +220,8 @@ XOR function is equivalent to subtraction under modulo 2
 
 [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 
+[2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) BFS solution is straightforward, but DFS solution is a bit counter-intuitive.
+
 ## Tree Map
 
 [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/)
