@@ -31,6 +31,8 @@
 
 [Graph](#graph)
 
+[Topological Sort](#topological-sort)
+
 [Dijkstra's Algorithm](#dijkstras-algorithm)
 
 [Simulation](#simulation)
@@ -229,6 +231,10 @@ XOR function is equivalent to subtraction under modulo 2
 ## Graph
 
 [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
+## Topological Sort
+
+[2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
 
 ## Dijkstra's Algorithm
 
