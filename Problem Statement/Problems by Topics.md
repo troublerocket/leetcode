@@ -98,6 +98,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
 
+[2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet)
+
 
 ## Kadane's Algorithm
 
