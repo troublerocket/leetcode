@@ -180,6 +180,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) DFS + DP
 
+[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) 3 seperate sliding windows + DP
+
 
 ## Sweep Line
 
