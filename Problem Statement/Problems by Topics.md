@@ -275,5 +275,7 @@ Complex solution:
 
 [179. Largest Number](https://leetcode.com/problems/largest-number/description/) The way it compares and sort numbers
 
+[1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) Math problem
+
 
 
