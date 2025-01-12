@@ -138,6 +138,8 @@ PrefixSum + SuffixMin / Mono Stack are 2 general solutions.
 
 PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions that the array is a permutation of the integers in the range `[0, n - 1]`
 
+[2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
+
 
 ## Sliding Window
 
