@@ -184,6 +184,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) 3 seperate sliding windows + DP
 
+[361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) **💸premium💸** Not hard but good to learn how to keep track of counts and save space complexity for DP
+
 
 ## Sweep Line
 
