@@ -17,6 +17,8 @@
 
 [Dynamic Programming](#dynamic-programming)
 
+[Digit DP](#digit-dp)
+
 [Sweep Line](#sweep-line)
 
 [Two Pointers](#two-pointers)
@@ -187,6 +189,17 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) **💸premium💸** Not hard but good to learn how to keep track of counts and save space complexity for DP
 
 [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) DP + bitmask => How to break down 2D problems
+
+
+## Digit DP
+
+[2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) 
+
+Digit DP key points: 
+- `tight` param to control current digit's upper bound
+- memoization
+- Advanced: suffix condition
+- `[low, hi]` problem = `dp[hi] - dp[low - 1]`
 
 
 ## Sweep Line
