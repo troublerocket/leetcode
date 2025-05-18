@@ -186,6 +186,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) **💸premium💸** Not hard but good to learn how to keep track of counts and save space complexity for DP
 
+[1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) DP + bitmask => How to break down 2D problems
+
 
 ## Sweep Line
 
