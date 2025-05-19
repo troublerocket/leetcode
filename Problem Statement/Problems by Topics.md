@@ -142,6 +142,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)
 
+[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) Use binary search to find the minimum
+
 
 ## Sliding Window
 
