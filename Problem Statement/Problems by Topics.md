@@ -102,6 +102,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet)
 
+[2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) Keep one maxheap and one minheap
+
 
 ## Kadane's Algorithm
 
