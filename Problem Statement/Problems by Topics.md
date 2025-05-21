@@ -25,6 +25,8 @@
 
 [Prefix Sum](#prefix-sum)
 
+[Difference Array](#difference-array)
+
 [Cycle](#cycle)
 
 [Tree](#tree)
@@ -235,6 +237,9 @@ Digit DP key points:
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) Prefix Sum + Bit Manipulation
 
 XOR function is equivalent to subtraction under modulo 2
+
+## Difference Array
+[3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)
 
 
 ## Cycle
