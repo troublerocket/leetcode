@@ -148,6 +148,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) Use binary search to find the minimum
 
+[2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/) Binary Search + Sliding Window (Prefix Sum) + Greedy
+
 
 ## Sliding Window
 
