@@ -243,6 +243,8 @@ XOR function is equivalent to subtraction under modulo 2
 ## Difference Array
 [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)
 
+[3362. Zero Array Transformation III]() Diff array + Greedy
+
 
 ## Cycle
 
