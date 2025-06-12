@@ -272,6 +272,7 @@ XOR function is equivalent to subtraction under modulo 2
 
 ## Binary Tree Traversal
 
+[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** Keep a mono stack
 
 
 ## Tree Map
