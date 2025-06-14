@@ -79,6 +79,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) Mono stack + DP
 
+[3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) Mono stack + DP + Prefix Sum 😅😅😅😅😅😅
+
 
 ## Trie
 
