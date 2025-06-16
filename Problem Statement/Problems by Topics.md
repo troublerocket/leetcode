@@ -246,6 +246,12 @@ XOR function is equivalent to subtraction under modulo 2
 
 [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/)
 
+[2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) Mono stack + Prefix sum (of prefix sum)
+
+- Subarray + sum -> prefix sum
+
+- Subarray + min/max -> mono stack
+
 
 ## Difference Array
 [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)
