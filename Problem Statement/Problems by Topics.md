@@ -1,53 +1,53 @@
 # Topics
-[Monotonic Stack](#monotonic-stack)
-
-[Trie](#trie)
-
-[Union Find](#union-find)
-
-[Priority Queue](#priority-queue)
-
-[Kadane's Algorithm](#kadanes-algorithm)
-
 [Binary Search](#binary-search)
-
-[Greedy](#greedy)
-
-[Sliding Window](#sliding-window)
-
-[Dynamic Programming](#dynamic-programming)
-
-[Digit DP](#digit-dp)
-
-[Sweep Line](#sweep-line)
-
-[Two Pointers](#two-pointers)
-
-[Prefix Sum](#prefix-sum)
-
-[Difference Array](#difference-array)
-
-[Cycle](#cycle)
-
-[Tree](#tree)
 
 [Binary Tree Traversal](#binary-tree-traversal)
 
-[Tree Map](#tree-map)
+[Bit Manipulation](#bit-manipulation)
 
-[Graph](#graph)
-
-[Topological Sort](#topological-sort)
-
-[Dijkstra's Algorithm](#dijkstras-algorithm)
-
-[Simulation](#simulation)
+[Cycle](#cycle)
 
 [Design](#design)
 
-[Bit Manipulation](#bit-manipulation)
+[Dijkstra's Algorithm](#dijkstras-algorithm)
+
+[Digit DP](#digit-dp)
+
+[Difference Array](#difference-array)
+
+[Dynamic Programming](#dynamic-programming)
+
+[Graph](#graph)
+
+[Greedy](#greedy)
+
+[Kadane's Algorithm](#kadanes-algorithm)
+
+[Monotonic Stack](#monotonic-stack)
 
 [Out of Category](#out-of-category)
+
+[Prefix Sum](#prefix-sum)
+
+[Priority Queue](#priority-queue)
+
+[Simulation](#simulation)
+
+[Sliding Window](#sliding-window)
+
+[Sweep Line](#sweep-line)
+
+[Topological Sort](#topological-sort)
+
+[Tree](#tree)
+
+[Tree Map](#tree-map)
+
+[Trie](#trie)
+
+[Two Pointers](#two-pointers)
+
+[Union Find](#union-find)
 
 
 
