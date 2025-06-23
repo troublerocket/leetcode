@@ -68,6 +68,8 @@
 
 [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** 
 
+[862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Mono deque -> check/pop from the front, push from the back 
+
 Use mono stack to emulate & verify pre-order traversal
 - Emulate:
   - Node at the top of the stack is the root of the subtree we're visiting rn.
