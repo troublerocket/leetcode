@@ -177,6 +177,8 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) HARD T_T
 
+[683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/) **💸premium💸**
+
 
 ## Dynamic Programming
 
