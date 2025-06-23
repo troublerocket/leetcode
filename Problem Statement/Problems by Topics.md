@@ -182,6 +182,17 @@ Two passes: `exact(k) = atMost(k) - atMost(k - 1)` & One pass: keep a count of v
 
 [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/) **💸premium💸**
 
+[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) &
+[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+
+An optimization for sliding window if we’re only interested in finding the longest window size:
+
+We don’t need to shrink the window whenever it’s invalid. Instead, we just shift the window rightwards by one position when condition is not met.
+
+The current window might be invalid, but that’s okay — we’re just trying to find a longer valid window in the future.
+
+
+
 
 ## Dynamic Programming
 
