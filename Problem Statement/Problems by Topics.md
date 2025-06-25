@@ -118,9 +118,12 @@ Use mono stack to emulate & verify pre-order traversal
 
 [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
 
+
 ## Binary Search
 
 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+[2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) Nested binary search
 
 
 ## Greedy
