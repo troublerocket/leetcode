@@ -51,79 +51,97 @@
 
 
 
-## Monotonic Stack
-[1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) **💸premium💸**
-
-[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
-
-[1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
-
-[2866. Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/)
-
-[2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/) **💸premium💸**
-
-[1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) mono stack + DP
-
-[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) DP + mono stack
-
-[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** 
-
-Use mono stack to emulate & verify pre-order traversal
-- Emulate:
-  - Node at the top of the stack is the root of the subtree we're visiting rn.
-  - Push nodes when we're visiting deep down (go to the left subtree) & pop nodes when we need to backtrack up the tree (go back to the right subtree)
-- Verify:
-  -  When we return from a node (pop from the stack), every value we encounter from now on must be greater than node.
-
-[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
-
-[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) Mono stack + DP
-
-[3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) Mono stack + DP + Prefix Sum 😅😅😅😅😅😅
-
-[862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Mono deque -> check/pop from the front, push from the back 
-
-
-
-## Trie
-
-[2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) Trie + DP
-
-[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) Bitwise Trie
-
-## Union Find
-
-[2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) UF with reset
-
-[2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) Prime factor
-
-## Priority Queue
-
-[2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
-
-[1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
-
-[1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) **💸premium💸**
-
-[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) **💸premium💸** Use 2 PQs
-
-[857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
-
-[2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet)
-
-[2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) Keep one maxheap and one minheap
-
-
-## Kadane's Algorithm
-
-[2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
-
-
 ## Binary Search
 
 [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 
 [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) Nested binary search
+
+
+## Binary Tree Traversal
+
+[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** Keep a mono stack
+
+
+## Bit Manipulation
+
+[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) Key: Find common prefix
+
+
+## Cycle
+
+*Cycle sort can be used when finding duplicates or missing numbers when the given nums are in range \[1, n\]. But it modifies the input.*
+
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) 1. Cycle Sort 2. Cycle Detection - Tortoise🐢 and Hare🐇
+
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) Cycle Sort
+
+
+## Design
+
+[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) PriorityQueue w/o pre-initialization
+
+## Dijkstra's Algorithm
+
+DJ's algo implementation: dist array + PQ
+
+[2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 
+
+Complex solution: 
+1. BFS + Dijkstra (via PQ)
+2. BFS + Binary Search to find the max
+
+[2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)
+
+
+## Digit DP
+
+[2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) 
+
+Digit DP key points: 
+- `tight` param to control current digit's upper bound
+- memoization
+- Advanced: suffix condition
+- `[low, hi]` problem = `dp[hi] - dp[low - 1]`
+
+
+## Difference Array
+[3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)
+
+[3362. Zero Array Transformation III]() Diff array + Greedy
+
+
+## Dynamic Programming
+
+[2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
+
+[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+
+[629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
+
+[276. Paint Fence](https://leetcode.com/problems/paint-fence/) **💸premium💸**
+
+[741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
+
+[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+
+[514. Freedom Trail](https://leetcode.com/problems/freedom-trail/)
+
+[834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) DFS + DP
+
+[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) 3 seperate sliding windows + DP
+
+[361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) **💸premium💸** Not hard but good to learn how to keep track of counts and save space complexity for DP
+
+[1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) DP + bitmask => How to break down 2D problems
+
+[873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) DP + two pointers
+
+
+## Graph
+
+[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
 
 
 ## Greedy
@@ -161,6 +179,88 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/) Binary Search + Sliding Window (Prefix Sum) + Greedy
 
 
+## Kadane's Algorithm
+
+[2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
+
+
+## Monotonic Stack
+[1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) **💸premium💸**
+
+[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+
+[1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
+
+[2866. Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/)
+
+[2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/) **💸premium💸**
+
+[1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) mono stack + DP
+
+[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) DP + mono stack
+
+[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** 
+
+Use mono stack to emulate & verify pre-order traversal
+- Emulate:
+  - Node at the top of the stack is the root of the subtree we're visiting rn.
+  - Push nodes when we're visiting deep down (go to the left subtree) & pop nodes when we need to backtrack up the tree (go back to the right subtree)
+- Verify:
+  -  When we return from a node (pop from the stack), every value we encounter from now on must be greater than node.
+
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) Mono stack + DP
+
+[3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) Mono stack + DP + Prefix Sum 😅😅😅😅😅😅
+
+[862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Mono deque -> check/pop from the front, push from the back 
+
+
+## Prefix Sum
+
+[1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) Prefix Sum + Linked List
+
+[1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) Prefix Sum + Bit Manipulation
+
+XOR function is equivalent to subtraction under modulo 2
+
+[3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/)
+
+[2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) Mono stack + Prefix sum (of prefix sum)
+
+- Subarray + sum -> prefix sum
+
+- Subarray + min/max -> mono stack
+
+
+## Priority Queue
+
+[2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
+
+[1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+
+[1199. Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) **💸premium💸**
+
+[2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) **💸premium💸** Use 2 PQs
+
+[857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+
+[2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet)
+
+[2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) Keep one maxheap and one minheap
+
+
+## Simulation
+
+[1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+
+[1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) Brain teaser :\
+
+[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+
+
+
 ## Sliding Window
 
 [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
@@ -196,45 +296,6 @@ The current window might be invalid, but that’s okay — we’re just trying t
 
 
 
-
-## Dynamic Programming
-
-[2742. Painting the Walls](https://leetcode.com/problems/painting-the-walls/)
-
-[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
-
-[629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
-
-[276. Paint Fence](https://leetcode.com/problems/paint-fence/) **💸premium💸**
-
-[741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
-
-[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
-
-[514. Freedom Trail](https://leetcode.com/problems/freedom-trail/)
-
-[834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) DFS + DP
-
-[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) 3 seperate sliding windows + DP
-
-[361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) **💸premium💸** Not hard but good to learn how to keep track of counts and save space complexity for DP
-
-[1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) DP + bitmask => How to break down 2D problems
-
-[873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) DP + two pointers
-
-
-## Digit DP
-
-[2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) 
-
-Digit DP key points: 
-- `tight` param to control current digit's upper bound
-- memoization
-- Advanced: suffix condition
-- `[low, hi]` problem = `dp[hi] - dp[low - 1]`
-
-
 ## Sweep Line
 
 [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Binary Search + Sweep Line
@@ -245,47 +306,12 @@ Digit DP key points:
 
 [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) Binary Search/Sliding Window/Sweep Line (Simplified prefix sum)
 
-## Two Pointers
-
-*Two pointers is a kind of *Greedy* problems*
-
-[1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) Non-optimal solution: monotonic stack
-
-[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-
-[75. Sort Colors](https://leetcode.com/problems/sort-colors/) Dutch flag problem 🇳🇱
-
-## Prefix Sum
-
-[1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) Prefix Sum + Linked List
-
-[1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) Prefix Sum + Bit Manipulation
-
-XOR function is equivalent to subtraction under modulo 2
-
-[3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/)
-
-[2281. Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) Mono stack + Prefix sum (of prefix sum)
-
-- Subarray + sum -> prefix sum
-
-- Subarray + min/max -> mono stack
 
 
-## Difference Array
-[3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)
+## Topological Sort
 
-[3362. Zero Array Transformation III]() Diff array + Greedy
+[2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
 
-
-
-## Cycle
-
-*Cycle sort can be used when finding duplicates or missing numbers when the given nums are in range \[1, n\]. But it modifies the input.*
-
-[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) 1. Cycle Sort 2. Cycle Detection - Tortoise🐢 and Hare🐇
-
-[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) Cycle Sort
 
 ## Tree
 
@@ -297,51 +323,50 @@ XOR function is equivalent to subtraction under modulo 2
 
 [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) BFS solution is straightforward, but DFS solution is a bit counter-intuitive.
 
-## Binary Tree Traversal
-
-[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** Keep a mono stack
-
-
 ## Tree Map
 
 [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/)
 
-## Graph
-
-[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
-
-## Topological Sort
-
-[2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
-
-## Dijkstra's Algorithm
-
-DJ's algo implementation: dist array + PQ
-
-[2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) 
-
-Complex solution: 
-1. BFS + Dijkstra (via PQ)
-2. BFS + Binary Search to find the max
-
-[2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)
-
-## Simulation
-
-[1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
-
-[1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) Brain teaser :\
-
-[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 
 
-## Design
+## Trie
 
-[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) PriorityQueue w/o pre-initialization
+[2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) Trie + DP
 
-## Bit Manipulation
+[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) Bitwise Trie
 
-[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) Key: Find common prefix
+
+
+## Two Pointers
+
+*Two pointers is a kind of *Greedy* problems*
+
+[1793. Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) Non-optimal solution: monotonic stack
+
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/) Dutch flag problem 🇳🇱
+
+
+
+## Union Find
+
+[2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) UF with reset
+
+[2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) Prime factor
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Out of Category
 
