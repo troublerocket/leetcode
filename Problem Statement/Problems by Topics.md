@@ -62,7 +62,7 @@
 
 [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) **💸premium💸** Keep a mono stack
 
-[333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree) Post order traversal
+[333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree) **💸premium💸** Post order traversal
 
 
 ## Bit Manipulation
