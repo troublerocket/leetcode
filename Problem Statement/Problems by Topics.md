@@ -23,6 +23,8 @@
 
 [Kadane's Algorithm](#kadanes-algorithm)
 
+[Merge Sort](#merge-sort)
+
 [Monotonic Stack](#monotonic-stack)
 
 [Out of Category](#out-of-category)
@@ -189,6 +191,15 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
 
+## Merge Sort
+
+[493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+[327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+
+[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+
+We can try modified merge sort when we need to count or compare element pairs with an index order constraint (like i < j)
 
 ## Monotonic Stack
 [1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) **💸premium💸**
