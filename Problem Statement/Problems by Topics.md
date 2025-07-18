@@ -33,6 +33,8 @@
 
 [Priority Queue](#priority-queue)
 
+[Segment Tree & Binary Indexed Tree](#segment-tree-binary-indexed-tree)
+
 [Simulation](#simulation)
 
 [Sliding Window](#sliding-window)
@@ -266,6 +268,11 @@ XOR function is equivalent to subtraction under modulo 2
 [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet)
 
 [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) Keep one maxheap and one minheap
+
+
+## Segment Tree & Binary Indexed Tree
+
+[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 
 
 ## Simulation
