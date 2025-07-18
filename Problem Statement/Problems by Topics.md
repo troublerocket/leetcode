@@ -33,7 +33,7 @@
 
 [Priority Queue](#priority-queue)
 
-[Segment Tree & Binary Indexed Tree](#segment-tree-&-binary-indexed-tree)
+[Segment Tree & Binary Indexed Tree](#segment-tree--binary-indexed-tree)
 
 [Simulation](#simulation)
 
