@@ -188,6 +188,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/) Binary Search + Sliding Window (Prefix Sum) + Greedy
 
+[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+
 
 ## Kadane's Algorithm
 
