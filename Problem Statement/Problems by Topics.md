@@ -72,6 +72,8 @@ In order traversal:
 
 [333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree) **💸premium💸** Post order traversal
 
+[99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) Keep track of the “decreasing segment” in the inorder traversal sequence and swap the first and last elements of the segment to fix it
+
 
 ## Bit Manipulation
 
