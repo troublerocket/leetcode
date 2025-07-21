@@ -408,4 +408,17 @@ The current window might be invalid, but that’s okay — we’re just trying t
 [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) Math problem
 
 
+## Some useful build-in functions
+
+`Character.isUpperCase` `Character.isLowerCase`
+
+`Character.isLetter(c)`
+
+`Integer.bitCount`
+
+`Arrays.asList(arr)` `list.toArray(new String[0])`
+
+`String.valueOf(num)` `Integer.parseInt(str)`
+
+
 
