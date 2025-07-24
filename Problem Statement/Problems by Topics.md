@@ -354,9 +354,16 @@ The current window might be invalid, but that’s okay — we’re just trying t
 
 [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) BFS solution is straightforward, but DFS solution is a bit counter-intuitive.
 
+[2322. Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) 
+
+**DFS timestamping** - using `in[]` and `out[]` array to determine whether two nodes are ancestor-descendant 
+
+DFS has preorder traversal nature so we use it to init `in[]` & `out[]` array
+
 ## Tree Map
 
 [2926. Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/)
+
 
 
 
