@@ -79,6 +79,8 @@ In order traversal:
 
 [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) Key: Find common prefix
 
+[2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/)
+
 
 ## Cycle
 
