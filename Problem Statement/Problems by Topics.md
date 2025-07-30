@@ -95,6 +95,9 @@ In order traversal:
 
 [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) PriorityQueue w/o pre-initialization
 
+[281. Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) **💸premium💸** Queue + Iterator
+
+
 ## Dijkstra's Algorithm
 
 DJ's algo implementation: dist array + PQ
