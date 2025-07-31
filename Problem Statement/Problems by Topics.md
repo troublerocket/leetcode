@@ -156,6 +156,8 @@ Digit DP key points:
 
 [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) I never truly understand it!!
 
+[898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)
+
 
 ## Graph
 
