@@ -201,6 +201,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 
+[2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/)
+
 
 ## Kadane's Algorithm
 
