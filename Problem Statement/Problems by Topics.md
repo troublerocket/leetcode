@@ -289,6 +289,8 @@ XOR function is equivalent to subtraction under modulo 2
 
 [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 
+[3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/)
+
 
 ## Simulation
 
