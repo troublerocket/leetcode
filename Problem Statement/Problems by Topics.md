@@ -140,9 +140,9 @@ Digit DP key points:
 
 [276. Paint Fence](https://leetcode.com/problems/paint-fence/) **💸premium💸**
 
-[741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
+[741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) Two-way trip = two person doing one-way trip
 
-[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+[1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) Build dp backwards because end is not definite but start points are definite
 
 [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/)
 
