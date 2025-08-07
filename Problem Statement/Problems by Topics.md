@@ -125,6 +125,8 @@ Digit DP key points:
 ## Difference Array
 [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)
 
+[3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) Diff array + Line sweep
+
 [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/) Diff array + Greedy
 
 
