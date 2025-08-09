@@ -446,5 +446,7 @@ DFS has preorder traversal nature so we use it to init `in[]` & `out[]` array
 
 Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
 
+`var pq = Heap<Int>()` `pq.insert(x)` `pq.popMin()` `pq.popMax()`
+
 
 
