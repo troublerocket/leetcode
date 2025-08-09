@@ -450,5 +450,9 @@ Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
 
 `arr.sort(by: >)` reverse sorting
 
+`.sort()` → modifies the original array directly (no new array created).
+
+`.sorted()` → returns a new sorted array (original unchanged).
+
 
 
