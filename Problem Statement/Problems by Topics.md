@@ -444,5 +444,7 @@ DFS has preorder traversal nature so we use it to init `in[]` & `out[]` array
 
 `String.valueOf(num)` `Integer.parseInt(str)`
 
+Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
+
 
 
