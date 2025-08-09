@@ -448,5 +448,7 @@ Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
 
 `var pq = Heap<Int>()` `pq.insert(x)` `pq.popMin()` `pq.popMax()`
 
+`arr.sort(by: >)` reverse sorting
+
 
 
