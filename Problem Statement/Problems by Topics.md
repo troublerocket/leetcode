@@ -454,5 +454,6 @@ Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
 
 `.sorted()` → returns a new sorted array (original unchanged).
 
+`var arr = Array(s)` & `var str = String(arr[l...r])` 
 
 
