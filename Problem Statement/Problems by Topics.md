@@ -456,4 +456,6 @@ Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
 
 `var arr = Array(s)` & `var str = String(arr[l...r])` 
 
+`for (idx, c) in s.enumerated()`
+
 
