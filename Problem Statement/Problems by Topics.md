@@ -271,6 +271,10 @@ XOR function is equivalent to subtraction under modulo 2
 
 - Subarray + min/max -> mono stack
 
+[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) Find prefix with same residuals
+
+[3654. Minimum Sum After Divisible Sum Deletions](https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions/) Find prefix with same residuals + DP
+
 
 ## Priority Queue
 
