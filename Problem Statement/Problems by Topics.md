@@ -9,6 +9,8 @@
 
 [Design](#design)
 
+[DFS & Backtracking](#dfs--backtracking)
+
 [Dijkstra's Algorithm](#dijkstras-algorithm)
 
 [Digit DP](#digit-dp)
@@ -96,6 +98,12 @@ In order traversal:
 [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) PriorityQueue w/o pre-initialization
 
 [281. Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) **💸premium💸** Queue + Iterator
+
+
+## DFS & Backtracking
+
+[679. 24 Game](https://leetcode.com/problems/24-game/) No brainer dfs
+
 
 
 ## Dijkstra's Algorithm
