@@ -458,18 +458,24 @@ DFS has preorder traversal nature so we use it to init `in[]` & `out[]` array
 
 `String.valueOf(num)` `Integer.parseInt(str)`
 
-Swift: `let pairs = pairs.sorted { $0[1] < $1[1] }`
+Swift: 
 
-`var pq = Heap<Int>()` `pq.insert(x)` `pq.popMin()` `pq.popMax()`
+- Sorting:
+  - `.sort()` → modifies the original array directly (no new array created).
+  - `.sorted()` → returns a new sorted array (original unchanged).
+  - `let pairs = pairs.sorted { $0[1] < $1[1] }` Comparator sorting
+  - `arr.sort(by: >)` reverse sorting
 
-`arr.sort(by: >)` reverse sorting
-
-`.sort()` → modifies the original array directly (no new array created).
-
-`.sorted()` → returns a new sorted array (original unchanged).
-
-`var arr = Array(s)` & `var str = String(arr[l...r])` 
-
-`for (idx, c) in s.enumerated()`
+- Max/Min Heap: `var pq = Heap<Int>()` `pq.insert(x)` `pq.popMin()` `pq.popMax()`
+- String <=> Char Array: `var arr = Array(s)` & `var str = String(arr[l...r])`
+- Get char from String by index: `let idx = str.index(str.startIndex, offsetBy: i)` `let ch = str[idx]`
+- Char <=> 1-digit Number:
+  - `let digit = ch.wholeNumberValue`
+  - `let ch = Character(String(digit))`
+- String <=> Number:
+  - `let number = Int(str)` or `Int("0110", radix: 2)`
+  - `let str = String(num)`
+- String => Number Array: `let digits: [Int] = String(number).compactMap { $0.wholeNumberValue }`
+- Loop thur an array:  `for (idx, c) in s.enumerated()`
 
 
