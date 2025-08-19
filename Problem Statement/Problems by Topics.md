@@ -106,6 +106,8 @@ In order traversal:
 
 [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing)
 
+[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators)
+
 
 
 ## Dijkstra's Algorithm
