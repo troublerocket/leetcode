@@ -470,7 +470,7 @@ Swift:
 
 - Max/Min Heap: `var pq = Heap<Int>()` `pq.insert(x)` `pq.popMin()` `pq.popMax()`
 - String <=> Char Array: `var arr = Array(s)` & `var str = String(arr[l...r])`
-- Get char from String by index: `let idx = str.index(str.startIndex, offsetBy: i)` `let ch = str[idx]`
+- Get char/substring from string by index: `let idx = str.index(str.startIndex, offsetBy: i)` `let ch = str[idx]` `let substr = String(str[idx...])`
 - Char <=> 1-digit Number:
   - `let digit = ch.wholeNumberValue`
   - `let ch = Character(String(digit))`
