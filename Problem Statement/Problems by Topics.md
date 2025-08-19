@@ -447,6 +447,8 @@ DFS has preorder traversal nature so we use it to init `in[]` & `out[]` array
 
 [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) Math problem
 
+[189. Rotate Array](https://leetcode.com/problems/rotate-array/) Rotate k steps -> Reverse n + reverse k & reverse n-k
+
 
 ## Some useful build-in functions
 
