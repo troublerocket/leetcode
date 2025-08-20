@@ -483,5 +483,6 @@ Swift:
   - `let str = String(num)`
 - String => Number Array: `let digits: [Int] = String(number).compactMap { $0.wholeNumberValue }`
 - Loop thur an array:  `for (idx, c) in s.enumerated()`
+- Pair: Java `Pair<String, Integer> p` Swift `(String, Int)` Java `p.getKey() p.getValue()` Swift `p.0 p.1`
 
 
