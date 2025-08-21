@@ -25,6 +25,8 @@
 
 [Kadane's Algorithm](#kadanes-algorithm)
 
+[Matrix](#matrix)
+
 [Merge Sort](#merge-sort)
 
 [Monotonic Stack](#monotonic-stack)
@@ -174,7 +176,6 @@ Digit DP key points:
 
 [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)
 
-[1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
 
 
 ## Graph
@@ -225,6 +226,14 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 ## Kadane's Algorithm
 
 [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
+
+## Matrix
+
+[1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)
+
+[1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
+
+
 
 ## Merge Sort
 
