@@ -373,7 +373,7 @@ The current window might be invalid, but that’s okay — we’re just trying t
 
 ## Sort
 
-[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) Quick sort
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) Quick select
 
 
 
