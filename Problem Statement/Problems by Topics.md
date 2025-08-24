@@ -493,5 +493,7 @@ Swift:
 - String => Number Array: `let digits: [Int] = String(number).compactMap { $0.wholeNumberValue }`
 - Loop thur an array:  `for (idx, c) in s.enumerated()`
 - Pair: Java `Pair<String, Integer> p` Swift `(String, Int)` Java `p.getKey() p.getValue()` Swift `p.0 p.1`
+- Split: `s.split(separator: "/")` omits empty subsequences by default. Use `s.split(separator: "/", omittingEmptySubsequences: false)` to keep empty parts.
+- Join: `arr.joined(separator: ",")` keeps empty parts. Use `arr.filter { !$0.isEmpty }.joined(separator: ",")` to filter empty parts out.
 
 
