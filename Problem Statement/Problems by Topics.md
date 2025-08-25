@@ -37,13 +37,13 @@
 
 [Priority Queue](#priority-queue)
 
+[Quick Sort](#quick-sort)
+
 [Segment Tree & Binary Indexed Tree](#segment-tree--binary-indexed-tree)
 
 [Simulation](#simulation)
 
 [Sliding Window](#sliding-window)
-
-[Sort](#sort)
 
 [Sweep Line](#sweep-line)
 
@@ -318,6 +318,13 @@ XOR function is equivalent to subtraction under modulo 2
 [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) Keep one maxheap and one minheap
 
 
+## Quick Sort
+
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) 
+
+[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) Quick sort TC `O(n)` SC `O(1)` / Modified binary search TC `O(n)` SC `O(n)`
+
+
 ## Segment Tree & Binary Indexed Tree
 
 [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
@@ -371,9 +378,6 @@ The current window might be invalid, but that’s okay — we’re just trying t
 
 [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps)
 
-## Sort
-
-[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) Quick select
 
 
 
