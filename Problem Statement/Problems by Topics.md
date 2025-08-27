@@ -237,6 +237,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
 
+[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) Expand each cell into a 3*3 matrix to demonstrate the diagonal/anti-diagonal slash
+
 ## Merge Intervals
 
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
