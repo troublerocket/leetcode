@@ -226,6 +226,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/)
 
+[1121. Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) **💸premium💸**
+
 
 ## Kadane's Algorithm
 
