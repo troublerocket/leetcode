@@ -206,7 +206,7 @@ Digit DP key points:
 
 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Intervals - we only care about the right bound
 
-[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) & [1121. Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) **💸premium💸**
 
 [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)
 
@@ -226,7 +226,6 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/)
 
-[1121. Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) **💸premium💸**
 
 
 ## Kadane's Algorithm
