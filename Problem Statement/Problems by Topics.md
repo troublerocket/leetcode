@@ -226,6 +226,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/)
 
+[3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations)
+
 
 
 ## Kadane's Algorithm
