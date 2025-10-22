@@ -387,6 +387,8 @@ The current window might be invalid, but that’s okay — we’re just trying t
 
 [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps)
 
+[3347. Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii) Two sliding windows for each scenarios
+
 
 
 
