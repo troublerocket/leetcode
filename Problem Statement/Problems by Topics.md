@@ -228,6 +228,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [3397. Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations)
 
+[1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
+
 
 
 ## Kadane's Algorithm
