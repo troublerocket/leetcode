@@ -328,6 +328,10 @@ XOR function is equivalent to subtraction under modulo 2
 
 [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) Keep one maxheap and one minheap
 
+[3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) Keep two heaps
+
+[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) Keep one maxheap and one minheap
+
 
 ## Quick Sort
 
