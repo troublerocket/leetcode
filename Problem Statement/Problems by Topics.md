@@ -290,6 +290,8 @@ Use mono stack to emulate & verify pre-order traversal
 
 [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Mono deque -> check/pop from the front, push from the back 
 
+[3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/)
+
 
 ## Prefix Sum
 
