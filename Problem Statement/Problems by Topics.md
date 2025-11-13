@@ -180,6 +180,8 @@ Digit DP key points:
 
 [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)
 
+[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) 0/1 knapsack
+
 
 
 ## Graph
