@@ -232,6 +232,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
 
+[757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) HARD TO SUMMARIZE BUT NEED TO REVIEW!
+
 
 
 ## Kadane's Algorithm
