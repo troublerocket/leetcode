@@ -182,6 +182,8 @@ Digit DP key points:
 
 [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) 0/1 knapsack
 
+[1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) The trick is about the init of dp array
+
 
 
 ## Graph
