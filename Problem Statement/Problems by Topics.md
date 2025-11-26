@@ -25,6 +25,8 @@
 
 [Kadane's Algorithm](#kadanes-algorithm)
 
+[Math](#math)
+
 [Matrix](#matrix)
 
 [Merge Intervals](#merge-intervals)
@@ -241,6 +243,12 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 ## Kadane's Algorithm
 
 [2393. Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/) **💸premium💸**
+
+## Math
+
+[1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) When to stop the loop
+
+[1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) Math problem
 
 ## Matrix
 
@@ -491,7 +499,6 @@ DFS has preorder traversal nature so we use it to init `in[]` & `out[]` array
 
 [179. Largest Number](https://leetcode.com/problems/largest-number/description/) The way it compares and sort numbers
 
-[1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) Math problem
 
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/) Rotate k steps -> Reverse n + reverse k & reverse n-k
 
