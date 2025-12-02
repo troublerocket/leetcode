@@ -238,6 +238,8 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) HARD TO SUMMARIZE BUT NEED TO REVIEW!
 
+[2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) 1. Greedy + linear 2. Binary search greedy
+
 
 
 ## Kadane's Algorithm
