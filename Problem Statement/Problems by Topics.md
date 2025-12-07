@@ -274,6 +274,7 @@ PrefixSum == IndexSum / Max == i are 2 specific solutions given the conditions t
 
 We can try modified merge sort when we need to count or compare element pairs with an index order constraint (like i < j)
 
+
 ## Monotonic Stack
 [1063. Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/) **💸premium💸**
 
@@ -330,6 +331,8 @@ XOR function is equivalent to subtraction under modulo 2
 [3654. Minimum Sum After Divisible Sum Deletions](https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions/) Find prefix with same residuals + DP
 
 [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/)
+
+[3771. Total Score of Dungeon Runs](https://leetcode.com/problems/total-score-of-dungeon-runs/)
 
 
 ## Priority Queue
