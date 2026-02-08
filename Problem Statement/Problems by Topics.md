@@ -186,6 +186,8 @@ Digit DP key points:
 
 [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) The trick is about the init of dp array
 
+[651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/) typical dp but still took me some times to clearly understand the status transition
+
 
 
 ## Graph
